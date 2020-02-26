@@ -1,0 +1,1 @@
+var UMBC = {"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[-77.20138907432556,39.09420601206886]}}]}
